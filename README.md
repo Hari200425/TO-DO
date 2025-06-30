@@ -35,9 +35,9 @@ A modern, responsive Todo Task Manager web application that allows users to:
 
 - ## 📱 Screenshots
 
-| Login Page | Homepage | Task Form |  Nav Bar | Filter Dropdown |
-|------------|----------|-----------|----------|-----------------|
-| ![Login](lib/assets/login_page.jpg) | ![Home](lib/assets/homepage.jpg) | ![Form](lib/assets/task_form.jpg) | ![Nav](lib/assets/nav_bar.jpg) | ![Filter](lib/assets/filter_button.jpg) |
+| Login Page | Homepage |
+|------------|----------|
+| ![Login](img/login.png) | ![Home](img/home_page.png) |
 
 ---
 
