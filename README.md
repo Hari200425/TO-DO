@@ -41,6 +41,6 @@ A modern, responsive Todo Task Manager web application that allows users to:
 
 ---
 
-🎥 [Watch Demo Video](https://drive.google.com/file/d/1WBx8D_JDeybCx9xI2OjJ1qo22Ih3Z7E0/view?usp=drivesdk)
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1v2OcIJ4o3XjVzoiwTtF4HC4Y9mq0aMsS/view?usp=drive_link)
 
 This project is a part of a hackathon run by https://www.katomaran.com
